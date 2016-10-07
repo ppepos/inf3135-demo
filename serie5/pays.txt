@@ -1,0 +1,10 @@
+Shanghai,China,22315474
+Buenos Aires,Argentina,13076300
+Mumbai,India,12691836
+Mexico City,Mexico,12294193
+Beijing,China,11716620
+Karachi,Pakistan,11624219
+Istanbul,Turkey,11174257
+Tianjin,China,11090314
+Guangzhou,China,11071424
+Delhi,India,10927986
